@@ -13,8 +13,6 @@ Combining a **soft pastel anime aesthetic** with a **clean minimalist layout**, 
 *   **👑 Meet the Leadership & FAQ:** Dedicated tabs introducing club officers, outlining core roles, and answering common beginner questions.
 *   **💬 Discord Integration:** Direct navigation link to the club's community server (`https://discord.gg/NJJzNEBy84`) for instant member onboarding.
 
----
-
 ## 🛠️ Tech Stack
 
 *   **HTML5:** Semantic document structure and accessibility standards.
@@ -22,3 +20,10 @@ Combining a **soft pastel anime aesthetic** with a **clean minimalist layout**, 
 *   **JavaScript (ES6+):** Client-side interactivity, dynamic DOM manipulation, state handling for the budget calculator, and tab navigation logic.
 
 ---
+
+## 📸 Preview (Coming Soon)
+A soft, elegant portal bringing the Bellevue College maker community together.
+
+## 📄 License
+This project is open-source and developed for the Bellevue College Cosplay Club community.
+To run this project locally on your machine, follow these simple steps:
