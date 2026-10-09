@@ -4,6 +4,9 @@ Welcome to the official digital hub of the **Bellevue College Cosplay Club**! Th
 
 Combining a **soft pastel anime aesthetic** with a **clean minimalist layout**, the portal provides an intuitive platform for members to track events, manage project budgets, and discover resources.
 
+## 🎯 Purpose & Vision
+The BC Cosplay Hub was created to solve a very specific challenge: giving the Bellevue College cosplay, prop-making, and anime community a centralized, modern, and engaging digital home.
+
 ## 🌟 Key Features
 
 *   **🎨 Soft Pastel & Clean Minimalist UI:** Designed with calming lavenders, soft pinks, and crisp white card containers for a modern, distraction-free user experience.
