@@ -26,4 +26,3 @@ A soft, elegant portal bringing the Bellevue College maker community together.
 
 ## 📄 License
 This project is open-source and developed for the Bellevue College Cosplay Club community.
-To run this project locally on your machine, follow these simple steps:
