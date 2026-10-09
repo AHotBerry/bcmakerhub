@@ -8,7 +8,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Navbar -->
     <header class="navbar">
         <div class="logo">🌸 BC Cosplay Club</div>
         <nav>
@@ -20,3 +19,10 @@
             </ul>
         </nav>
     </header>
+<section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Create, Craft, & Connect</h1>
+            <p>Welcome to the ultimate hub for costuming enthusiasts, prop makers, and anime fans at BC.</p>
+            <a href="#contact" class="btn-primary">Join Our Discord</a>
+        </div>
+    </section>
